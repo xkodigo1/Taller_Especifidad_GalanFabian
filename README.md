@@ -1,5 +1,7 @@
 # Taller_Especifidad_GalanFabian
 README con la solución del taller. Especificando Nro Parte. Enunciado, Solucion y ScreenShoot de la ejecucion
+# Diapositivas 
+Puedes ver la presentación completa aquí: [Especifidad.pdf](Especifidad.pdf)
 # Parte 1: Introducción Teórica a la Especificidad
 A: La especificidad en CSS determina qué tan relevante es una regla CSS específica para un elemento particular. Cuando el navegador encuentra varios estilos que pueden aplicarse a un elemento, verifica la especificidad de cada regla y aplica la más específica. Los selectores son:
 
