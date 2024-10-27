@@ -25,11 +25,11 @@ Demuestra cómo los diferentes selectores afectan la especificidad.
 
 ![alt text](image.png)
 
-El resultado esperado de esta versión del código es el de mostrar el texto dentro de la etiqueta <p> en color rojo, esto debido a que el selector id = "parrafo" es el que tiene un mayor valor de especificidad (100 puntos).
+El resultado esperado de esta versión del código es el de mostrar el texto dentro de la etiqueta en color rojo, esto debido a que el selector id = "parrafo" es el que tiene un mayor valor de especificidad (100 puntos).
 
 ![alt text](image-1.png)
 
-El resultado esperado en esta version del codigo es el de mostrar el texto dento de la etiqueta <p> en color azul, esto debido a que se le agrego el marcador !important dentro de los estilos definidos para la etiqueta en el archivo CSS (Forzando el uso de este estilo).
+El resultado esperado en esta version del codigo es el de mostrar el texto dento de la etiqueta en color azul, esto debido a que se le agrego el marcador !important dentro de los estilos definidos para la etiqueta en el archivo CSS (Forzando el uso de este estilo).
 
 # Parte 3: Ejercicios Prácticos
 Ejercicio 1: Calculando la Especificidad
