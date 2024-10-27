@@ -1,0 +1,16 @@
+/* Header Color Blanco */
+body div#top.header h1{
+  color: white;
+}
+/* Texto Contenido Rojo */
+body div.content p.highlight{
+  color: red;
+}
+/* Footer Gris Oscuro */
+footer#footer{
+  color: rgb(55, 55, 55);
+}
+/* Fondo Gris Claro */
+body {
+  background-color: #adadad;
+}

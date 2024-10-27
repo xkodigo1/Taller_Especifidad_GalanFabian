@@ -1,0 +1,9 @@
+#box p {
+    color: blue;
+  }
+  .content .text {
+    color: green;
+  }
+  body div#box.content p.text{
+    color: yellow;
+}
